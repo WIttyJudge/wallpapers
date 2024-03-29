@@ -1,2 +1,2 @@
 # wallpapers
-My desctop wallpapers sorted by theme
+My desktop wallpapers sorted by colorschema 
